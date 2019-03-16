@@ -1,0 +1,12 @@
+/* eslint-disable */
+require('./calendar')
+require('./Cuentas')
+require('./home')
+require('./information')
+require('./logout')
+require('./Mis direcciones')
+require('./Mis ventas (y Notificación_ ¡Lograste una venta!)')
+require('./Notificación_ Hay tres compradores interesados en tu oferta')
+require('./Notificación_ Tu cultivo está listo para cosecharse')
+require('./star')
+require('./user')
